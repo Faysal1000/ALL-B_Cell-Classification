@@ -1,7 +1,9 @@
-tensorflow
-opencv-python
+streamlit
 numpy
+pickle5
+tensorflow
 scikit-learn
 lightgbm
 staintools
 spams-bin
+opencv-python-headless
